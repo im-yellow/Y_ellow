@@ -1,3 +1,3 @@
 ```
-pip install y_lw
+pip install y-lw
 ```
